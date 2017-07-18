@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - attack
+  - boss
+  - Player1
+  - Player2
+  - easterEgg
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Midground
+  - Foreground
+  - Player1
+  - Player2
+  - Attack
+  - Attacked
+  - bonoAttack
+  - EasterEgg
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1071117335
+    locked: 0
+  - name: Midground
+    uniqueID: 1672504943
+    locked: 0
+  - name: Attackground
+    uniqueID: 708614135
+    locked: 0
+  - name: Foreground
+    uniqueID: 1467298937
+    locked: 0
